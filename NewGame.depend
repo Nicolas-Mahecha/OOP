@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1673195462 source:c:\universidad papeles\erasmus\newgame\src\dice.cpp
+	"Dice.h"
+	<stdlib.h>
+	<ctime>
+
+1674143138 c:\universidad papeles\erasmus\newgame\include\dice.h
+
+1674230674 source:c:\universidad papeles\erasmus\newgame\src\player.cpp
+	"Player.h"
+	<string>
+
+1673139037 c:\universidad papeles\erasmus\newgame\include\player.h
+	<iostream>
+	<string>
+
+1674224363 source:c:\universidad papeles\erasmus\newgame\src\question.cpp
+	"Question.h"
+	"Option.h"
+	<string>
+	<list>
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+
+1674224356 c:\universidad papeles\erasmus\newgame\include\question.h
+	<string>
+	<list>
+	<map>
+	<vector>
+	"Option.h"
+
+1674230619 source:c:\universidad papeles\erasmus\newgame\main.cpp
+	<iostream>
+	<Player.h>
+	<Question.h>
+	<Option.h>
+	<MiniQuestion.h>
+	<list>
+	<iostream>
+	<fstream>
+	<string>
+	<typeinfo>
+	<stdlib.h>
+	<vector>
+	<ctime>
+	<algorithm>
+
+1673020318 source:c:\universidad papeles\erasmus\newgame\src\option.cpp
+	"Option.h"
+
+1674143138 c:\universidad papeles\erasmus\newgame\include\option.h
+	<string>
+
+1673890797 source:c:\universidad papeles\erasmus\newgame\src\miniquestion.cpp
+	"MiniQuestion.h"
+	<iostream>
+
+1674143332 c:\universidad papeles\erasmus\newgame\include\miniquestion.h
+	<Question.h>
+
